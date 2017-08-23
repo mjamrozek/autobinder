@@ -1,0 +1,27 @@
+{
+  "name": "autobinder",
+  "version": "1.0.0",
+  "description": "Simple decorator to bind methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjamrozek/autobinder.git"
+  },
+  "keywords": [
+    "bind",
+    "decorator",
+    "react",
+    "this",
+    "methods",
+    "functions"
+  ],
+  "author": "Mike",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mjamrozek/autobinder/issues"
+  },
+  "homepage": "https://github.com/mjamrozek/autobinder#readme"
+}
